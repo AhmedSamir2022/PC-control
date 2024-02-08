@@ -2,7 +2,7 @@
 
 int main()
 {
-    Server myserver("0.0.0.0",8080);
+    Server myserver("0.0.0.0",0000);
     myserver.SeverInit();
     myserver.ServerAccept();
 
