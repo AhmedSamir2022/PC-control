@@ -48,6 +48,10 @@ This project was created as a learning exercise in socket programming and C++.
 
 Feel free to customize and expand upon this project to further develop your skills and create more advanced server-client applications.
 
+# Watch this video:
+
+[Link](https://www.youtube.com/watch?v=vR0W5stZq8Y&list=PL5USc7dR9KAO4EHNeXLOiUXLhitnnTGOc)
+
 # References
 [Socket Programming in C++](https://www.geeksforgeeks.org/socket-programming-in-cpp/)
 
