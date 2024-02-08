@@ -9,7 +9,8 @@
  #include <cstring>
 
 Server::Server(std::string ipAddress,int portNumber):ipAddress(ipAddress),portNumber(portNumber){}
-Server::~Server(){
+Server::~Server()
+{
 	ServerClose();
 }
 

@@ -24,6 +24,7 @@ class Command{
     void CommandYoutube();
     void CommandCalculator();
     void CommandSuspend();
+    
 };
 
 class Server : public Command{
